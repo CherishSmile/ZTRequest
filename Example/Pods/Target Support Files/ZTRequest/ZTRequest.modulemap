@@ -1,0 +1,6 @@
+framework module ZTRequest {
+  umbrella header "ZTRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}

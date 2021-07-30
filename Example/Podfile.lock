@@ -1,0 +1,16 @@
+PODS:
+  - ZTRequest (0.1.0)
+
+DEPENDENCIES:
+  - ZTRequest (from `../`)
+
+EXTERNAL SOURCES:
+  ZTRequest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTRequest: e75c57c9d09d6367c6f7a54defcb16a5c92a043f
+
+PODFILE CHECKSUM: c3000799568272e0f7c1e09985cfa5790dc380b1
+
+COCOAPODS: 1.10.2
