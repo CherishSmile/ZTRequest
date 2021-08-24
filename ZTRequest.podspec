@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'ZTRequest'
-    s.version          = '1.0.0'
+    s.version          = '1.0.1'
     s.summary          = 'A short description of ZTRequest.'
 
     s.homepage         = 'https://github.com/CherishSmile/ZTRequest'
@@ -23,7 +23,6 @@ Pod::Spec.new do |s|
     
     s.source_files = 'ZTRequest/ZTRequest.framework/Headers/*.{h}'
     s.vendored_frameworks = 'ZTRequest/ZTRequest.framework'
-    s.public_header_files = 'ZTRequest/ZTRequest.framework/Headers/*.{h}'
     
     s.dependency 'ZTBase'
     s.dependency 'AFNetworking'
